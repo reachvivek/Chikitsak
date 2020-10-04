@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144492358195",
+    "firebase_url": "https://chikitsak-d3a3e.firebaseio.com",
+    "project_id": "chikitsak-d3a3e",
+    "storage_bucket": "chikitsak-d3a3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144492358195:android:c4610e0f2d117d5577d146",
+        "android_client_info": {
+          "package_name": "com.example.chikitsak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144492358195-aaiqh701qucmb6mo0ujc9irq3i6pj1i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chikitsak",
+            "certificate_hash": "f219a185e3383ed854f8a031c655ca02eb036c65"
+          }
+        },
+        {
+          "client_id": "144492358195-0tac5a9lvfuk041ddao262ndsjsgs1vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQjxjzQncwa6dQ1FxfqYCEdXz4ZpyIh74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144492358195-0tac5a9lvfuk041ddao262ndsjsgs1vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
