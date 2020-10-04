@@ -2,17 +2,21 @@
 
 <h1 align="center">CHIKITSAK </br>AGBI Digital HealthTech Grand Challenge</H1>
 <p align="center">
-   <a target="_blank" href="https://www.hackerearth.com/challenges/hackathon/microsoft-azure-champions-league-hack-1/">
-	   <img src="https://he-s3.s3.amazonaws.com/media/cache/87/64/87648b135378436aac256d5904f58d1d.png" width="200" height="200"/>
+   <a target="_blank" href="https://www.hackerearth.com/challenges/hackathon/agbi-digital-healthtech-grand-challenge/">
+        <img src="https://he-s3.s3.amazonaws.com/media/cache/87/64/87648b135378436aac256d5904f58d1d.png" />
+   </a>
+</p>
+<p align="center">
+   <a target="_blank" href="https://www.hackerearth.com/challenges/hackathon/agbi-digital-healthtech-grand-challenge/">
         <img src="https://img.shields.io/badge/Challenge-HackerEarth-green.svg?style=for-the-badge&logo=hackerearth" />
    </a>
 </p>
 
 <h1 align="center">About</H1>
 
-Chikitsak has been made to scale up the existing telemedicine and Patient MIS in rural areas using Azure Services and Serverless Architecture to provide a cost-economic one stop solution which is dependable and truly secure. The objective is to give the citizens a **Live Doctor Interface** which has a **serverless architecture** and can be remotely accessed irrespective of geographic location. 
+Chikitsak has been made to scale up the existing telemedicine and Patient MIS in rural areas using Serverless Architecture to provide a cost-economic one stop solution which is dependable and truly secure. The objective is to give the citizens a **Live Doctor Interface** which has a **serverless architecture** and can be remotely accessed irrespective of geographic location. 
 
-> **Note:** This is ```Not An Open Source Project``` and is intended to be shared only with ```HackerEarth Officials``` & respective organizers of ```#Microsoft Azure Champions League``` for Validation of my Idea Subission and Evaluation Purposes. Please check this link below to better understand the license agreement of this repository: <a target="_blank" href="https://choosealicense.com/no-permission/">
+> **Note:** This is ```Not An Open Source Project``` and is intended to be shared only with ```HackerEarth Officials``` & respective organizers of ```AGBI Digital HealthTech Grand Challenge``` for Validation of my Idea Subission and Evaluation Purposes. Please check this link below to better understand the license agreement of this repository: <a target="_blank" href="https://choosealicense.com/no-permission/">
           <p align="center"> <strong>About Proprietary Code & Repository | GitHub</strong> </p> </a> 
           
 ![](Banner.png)
@@ -42,7 +46,14 @@ Chikitsak has been made to scale up the existing telemedicine and Patient MIS in
 * Doctor Side - Dashboard (React)
 * Patient Side - Mobile App (Flutter)
 
-#### Azure Services Used 🔍
+#### Dependencies Used 🔍
+* Socket.io
+* Pusher
+* NodeJS
+* React
+* Express
+* Material UI
+* PeerJS
 * DevOps
 * Active Directory (A2D)
 * Blob Storage
@@ -55,19 +66,21 @@ Chikitsak has been made to scale up the existing telemedicine and Patient MIS in
 ![](Chikitsak.png)
 
 ## Steps 
-## 1. Deploying Doctor's Dashboard - (React App)
-Clone this Dashboard to your workspace. 
+## 1. Deploying Doctor's - (React App)
+Clone this Repo to your workspace. 
 
-`$ git clone https://github.com/reachvivek/Doctor-Dashboard`
+`$ git clone https://github.com/reachvivek/Chikitsak`
 
 ## Running Locally and Testing
 To build and run from a packaged jar locally:
 ```
+`cd Doctor- React App`
+`cd frontend`
 `npm install`
 `npm start`
 ```
 
-If you navigate to `http://localhost:3000/` you will be navigated to `/dashboard` Kudos! 👍
+If you navigate to `http://localhost:3000/` you will be navigated to `/Login` Kudos! 👍
 
 
 ## Deploying with Vercel
