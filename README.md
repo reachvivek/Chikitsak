@@ -1,8 +1,9 @@
 <p align="center"><img src="https://github.com/reachvivek/Doctor-Dashboard/blob/master/src/images/logos/logo.png?raw=true" width="200" height="200"></p>
 
-<h1 align="center">CHIKITSAK </br>#Microsoft Azure Champions League'20 (Hack-1) </H1>
+<h1 align="center">CHIKITSAK </br>AGBI Digital HealthTech Grand Challenge</H1>
 <p align="center">
    <a target="_blank" href="https://www.hackerearth.com/challenges/hackathon/microsoft-azure-champions-league-hack-1/">
+	   <img src="https://he-s3.s3.amazonaws.com/media/cache/87/64/87648b135378436aac256d5904f58d1d.png" width="200" height="200"/>
         <img src="https://img.shields.io/badge/Challenge-HackerEarth-green.svg?style=for-the-badge&logo=hackerearth" />
    </a>
 </p>
